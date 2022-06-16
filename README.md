@@ -7,7 +7,7 @@
 
 ## Документация проекта 
 
-Документация: 
+Документация: https://github.com/dartnow21/lab7/blob/main/tz7%20(1).docx
 
 Тесты: 
 
