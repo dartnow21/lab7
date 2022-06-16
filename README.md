@@ -13,4 +13,4 @@
 
 ## Демонстрация возможностей программы
 
-Пример программы представлен в GoogleColab: 
+Пример программы представлен в GoogleColab: https://colab.research.google.com/drive/1aw1XOUrtvDAQaHcPlmDljp0eypggfLxP?usp=sharing
