@@ -1,5 +1,5 @@
-from Gomory import *
-from VetveyGranits import *
+from lab7.Gomory import *
+from lab7.VetveyGranits import *
 
 
 
