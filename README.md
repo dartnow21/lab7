@@ -9,7 +9,7 @@
 
 Документация: https://github.com/dartnow21/lab7/blob/main/tz7%20(1).docx
 
-Тесты: 
+Тесты: https://github.com/dartnow21/lab7/blob/main/TZ7%20(3).docx
 
 ## Демонстрация возможностей программы
 
